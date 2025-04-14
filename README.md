@@ -1,8 +1,9 @@
-# Shadow-Huntress
-pygame zero game for Kodland test
+# Shadow Huntress  
+*A Pygame Zero game for Kodland test*
 
-## how to play
-A - go left
-D - go right
-LShift - dash
-Mouse Click - attack and interact with UI
+## 🎮 How to Play
+
+- **A** – Move left  
+- **D** – Move right  
+- **Left Shift** – Dash  
+- **Mouse Left Click** – Attack and interact with UI
